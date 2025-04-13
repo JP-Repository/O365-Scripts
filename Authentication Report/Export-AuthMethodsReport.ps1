@@ -38,7 +38,7 @@
 Set-Location -Path "C:\Scripts"
 
 # Load stored credential functions
-. .\Functions-PSStoredCredentials.ps1
+. .\PSStoredCredentials.ps1
 
 # Keypath
 $Keypath = "C:\Scripts\Creds"
