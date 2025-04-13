@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Configures a custom background for Microsoft Teams Rooms (MTR) on a Skype Room System device.
+    Configures a custom background for Microsoft Teams Rooms (MTR) on a Skype Room System device. Only for Selected o Specific Screen.
 
 .DESCRIPTION
     This script downloads a background image from a specified URL and applies it to the Microsoft Teams Rooms system by 
